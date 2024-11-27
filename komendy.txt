@@ -1,0 +1,2 @@
+PS C:\Users\Adm\Downloads> $PSDefaultParameterValues['*:Encoding'] = 'Default'
+PS C:\Users\Adm\Downloads> cat .\PP.fna, .\top_100_hits_blstn_refseq.fna > merged.vclust2.fna
