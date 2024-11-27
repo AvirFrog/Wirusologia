@@ -1,0 +1,47 @@
+# cmscan :: search sequence(s) against a CM database
+# INFERNAL 1.1.5 (Sep 2023)
+# Copyright (C) 2023 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query sequence file:                   infernal_cmscan-I20241127-131225-0093-79817094-p1m.sequence
+# target CM database:                    /nfs/public/ro/es_codon/newdata/prod/flatfiles/rfam/rfam
+# tabular output of hits:                infernal_cmscan-I20241127-131225-0093-79817094-p1m.tblout
+# max ASCII text line length:            unlimited
+# model-specific thresholding:           GA cutoffs
+# Filters set as if DB size in Mb is:    5.000000
+# HMM-only mode for 0 basepair models:   no
+# number of worker threads:              4
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       PP  [L=39984]
+Hit scores:
+ rank     E-value  score  bias  modelname  start    end   mdl trunc   gc  description
+ ----   --------- ------ -----  --------- ------ ------   --- ----- ----  -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Hit alignments:
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Internal CM pipeline statistics summary:
+----------------------------------------
+Query sequence(s):                                               1  (79968 residues searched)
+Query sequences re-searched for truncated hits:                  1  (638.9 residues re-searched, avg per model)
+Target model(s):                                              4178  (488505 consensus positions)
+Windows   passing  local HMM SSV           filter:          868560  (0.3727); expected (0.35)
+Windows   passing  local HMM Viterbi       filter:                  (off)
+Windows   passing  local HMM Viterbi  bias filter:                  (off)
+Windows   passing  local HMM Forward       filter:           19582  (0.01057); expected (0.005)
+Windows   passing  local HMM Forward  bias filter:           16404  (0.008386); expected (0.005)
+Windows   passing glocal HMM Forward       filter:            8590  (0.005057); expected (0.005)
+Windows   passing glocal HMM Forward  bias filter:            8250  (0.004804); expected (0.005)
+Envelopes passing glocal HMM envelope defn filter:            8143  (0.002687); expected (0.005)
+Envelopes passing  local CM  CYK           filter:             570  (0.0001154); expected (0.0001)
+Total CM hits reported:                                          0  (0); includes 0 truncated hit(s)
+
+# CPU time: 233.50u 8.96s 00:04:02.46 Elapsed: 00:01:39.80
+//
+[ok]
