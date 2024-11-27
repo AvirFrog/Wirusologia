@@ -9,5 +9,5 @@ Niżej znajdziesz tabelę w której znajdują się linki do narzędzi wykorzysty
 | 04. | [Infernal Cmscan](https://www.ebi.ac.uk/jdispatcher/rna/infernal_cmscan) | * |
 | 05. | [Vclust](https://afproject.org/vclust/) | Vclust przyrównuje sekwencje (meta)genomowe wirusa, oblicza *Average Nucleotide Identity* (ANI) i grupuje genomy wirusa. |
 | 06. | [Ugene](https://ugene.net/download-all.html) | Wygląda minimalnie lepiej niż IGV ale dalej jest to ohydna przeglądarka genomowa (zainstalowane na każdym komputerze w sali) |
-| 07. | [Folder z danymi](https://www.google.com/) | Folder z danymi - w README.md wszystko jest rozpisane |
+| 07. | [Folder z danymi](https://github.com/AvirFrog/Wirusologia/tree/main/Dane) | Folder z danymi - w README.md wszystko jest rozpisane |
 
