@@ -2,11 +2,11 @@
 
 Klasyfikacja wirusa: 
 
-- skorzystaj z serwera VipTree aby umieścić swejego wirusa na drzewier filogenetycznym znanych sekencji bakteriofagowych
+- skorzystaj z serwera VipTree aby umieścić swejego wirusa na drzewier filogenetycznym znanych sekencji bakteriofagowych.
  
-- znajdź i pobierz 100 podobnych sekwencji za pomocą usługi BLASTn (NCBI, baza "RefSeq Genome Database (refseq_genomes)" + filtr "Viruses (taxid:10239)") 
+- znajdź i pobierz 100 podobnych sekwencji za pomocą usługi BLASTn (NCBI, baza "RefSeq Genome Database (refseq_genomes)" + filtr "Viruses (taxid:10239)").
 
-- pogrupuj je w gatunki korzystając z narzędzia Vclust (WRAZ ZE SWOIM WIRUSEM)
+- pogrupuj je w gatunki korzystając z narzędzia Vclust (WRAZ ZE SWOIM WIRUSEM).
 
  
 
@@ -16,7 +16,9 @@ Adnotacja funkcjonalna:
 
 - Zweryfikuj jego przewidywania identyfikujac zakonserwowane domeny w przewidywanych białkach narzędziem InterProScan. 
 
-- Poszukaj genów dla niekodujących RNA korzystając z serwisu CMscan (EBI) 
+- Poszukaj genów dla niekodujących RNA korzystając z serwisu CMscan (EBI).
+
+- Wyświetl adnotacje w środowisku UGENE i porównaj wyniki z wygenerowane przez PHold i InterProScan.
 
  
 Wypełnij zadanie na kanale zajęć w aplikacji Teams
